@@ -1,0 +1,15 @@
+name: bfys
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - ROOT
+  - uproot4
+  - awkward
+  - mplhep
+  - boost-histogram
+  - iminuit
+  - numba
+   
