@@ -2,9 +2,12 @@ pandas
 uproot
 uproot4
 awkward1
-numpy
+numpy==1.18.2
 matplotlib
 mplhep
 boost-histogram
 numba
 iminuit
+resample
+zfit
+hepstats
